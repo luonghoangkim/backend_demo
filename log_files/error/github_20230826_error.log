@@ -1,0 +1,3 @@
+time="2023-08-26T10:34:56.7441185+07:00" level=error msg="Có lỗi xảy ra" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=32
+time="2023-08-26T10:43:11.7146045+07:00" level=error msg="Có lỗi xảy ra" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-26T10:44:03.6712356+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=36

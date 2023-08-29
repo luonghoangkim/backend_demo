@@ -1,0 +1,21 @@
+time="2023-08-28T14:17:11.0935024+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T14:39:38.6014067+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T14:39:58.0097728+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T14:41:24.0814222+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T14:41:53.0168639+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T14:44:46.5805714+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T14:44:57.1759954+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T15:07:12.6193288+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T15:07:20.0203154+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T15:08:31.2104908+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T15:08:42.2651937+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T18:23:12.9101245+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T18:23:29.0606333+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T18:24:08.2612797+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=23
+time="2023-08-28T18:34:07.6214026+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T18:34:30.4732222+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=24
+time="2023-08-28T18:35:45.1273921+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T18:35:52.4248211+07:00" level=error msg="code=415, message=Unsupported Media Type" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=24
+time="2023-08-28T18:36:10.4160276+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
+time="2023-08-28T18:42:45.0867965+07:00" level=error msg="Key: 'ReqSignUp.FullName' Error:Field validation for 'FullName' failed on the 'required' tag\nKey: 'ReqSignUp.Email' Error:Field validation for 'Email' failed on the 'required' tag\nKey: 'ReqSignUp.PassWord' Error:Field validation for 'PassWord' failed on the 'required' tag" file="G:/CodeSamples/Golang/Backend_MyBlog/handler/user_handler.go" line=33
+time="2023-08-28T18:46:54.5248011+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
