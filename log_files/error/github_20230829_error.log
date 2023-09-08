@@ -19,3 +19,4 @@ time="2023-08-29T14:49:54.9967972+07:00" level=error msg="sql: no rows in result
 time="2023-08-29T15:21:40.136714+07:00" level=error msg="sql: no rows in result set" file="G:/CodeSamples/Golang/Backend_MyBlog/main.go" line=38
 time="2023-08-29T15:27:13.7920959+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="G:/CodeSamples/Golang/Backend_MyBlog/repository/repo_impl/user_repo_impl.go" line=42
 time="2023-08-29T15:35:28.8912514+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="G:/CodeSamples/Golang/Backend_MyBlog/repository/repo_impl/user_repo_impl.go" line=42
+time="2023-08-29T17:19:09.8781814+07:00" level=error msg="pq: syntax error at or near \"haiyens\"" file="G:/CodeSamples/Golang/Backend_MyBlog/repository/repo_impl/user_repo_impl.go" line=64
